@@ -28,5 +28,10 @@
     "name": "Micael Jerry",
     "moveFile": "jerry.js",
     "duration": 2500
+  },
+  {
+    "name": "Antsa Rary",
+    "moveFile": "rary.js",
+    "duration":3000 
   }
 ]
